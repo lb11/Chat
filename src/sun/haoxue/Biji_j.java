@@ -19,6 +19,7 @@ public class Biji_j extends Activity{
 	Databaseh helper;
 	SQLiteDatabase db;
 	Cursor c;
+	
 	int index;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
