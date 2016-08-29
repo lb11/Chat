@@ -26,6 +26,7 @@ public class activity_xuanze extends Activity{
 	TextView mtext_xianshi;
 	Cursor c;
 	String s="";
+	
 	int s_a=0,s_flag=0;
 	ArrayList<String> list=new ArrayList<String>();
 	@Override
